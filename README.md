@@ -3,6 +3,7 @@ Following repository will be adequate for the follow-up sessions.
 
 Feel free to write me at `shashwat.s@research.iiit.ac.in` if you'd like something specific covered.
 
+Slides used in session 1: <https://slides.com/shashwatsingh/nlp-tools>
 
 To run this repository
 
